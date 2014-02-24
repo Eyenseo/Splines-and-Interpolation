@@ -1,0 +1,4 @@
+out/
+main
+*.sublime-*
+*.tags*
